@@ -1,19 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Nhu Ngoc (NhuNgocDeveloper)
 
-<!--
-**NhuNgocDeveloper/NhuNgocDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are a few things about me 👩‍💻:
+- 🔭 **I’m currently working on**: Researching and developing an IoT and AI application project to monitor environmental conditions and pathogens.
+- 🌱 **I’m currently learning**: C/C++ programming languages (algorithms, data manipulation), Discrete Mathematics, and Computer Hardware Systems.
+- 💬 **Ask me about**: Basic C/C++ troubleshooting, or constructing scientific research hypotheses.
+- ⚡ **Fun fact**: When I'm not coding or studying Political Economy, I enjoy listening to early 2000s Vietnamese TV show soundtracks (like "Lời Chưa Nói") and reading translated Detective Conan fanfiction.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhuNgocDeveloper&show_icons=true&theme=radical)
+### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhuNgocDeveloper&layout=compact&theme=radical)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NhuNgocDeveloper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhuNgocDeveloper&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
