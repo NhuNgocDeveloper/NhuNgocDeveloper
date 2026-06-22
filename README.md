@@ -1,14 +1,22 @@
-## Hi there 👋 I'm Nhu Ngoc (NhuNgocDeveloper)
+## 🏴‍☠️ LỆNH TRUY NÃ: THUYỀN TRƯỞNG NHƯ NGỌC
 
-Here are a few things about me 👩‍💻:
-- 🔭 **I’m currently working on**: Researching and developing an IoT and AI application project to monitor environmental conditions and pathogens.
-- 🌱 **I’m currently learning**: C/C++ programming languages (algorithms, data manipulation), Discrete Mathematics, and Computer Hardware Systems.
-- 💬 **Ask me about**: Basic C/C++ troubleshooting, or constructing scientific research hypotheses.
-- ⚡ **Fun fact**: When I'm not coding or studying Political Economy, I enjoy listening to early 2000s Vietnamese TV show soundtracks (like "Lời Chưa Nói") and reading translated Detective Conan fanfiction.
+> **Mức án:** Đạt danh hiệu "Kẻ hủy diệt vòng lặp C++" và "Chúa tể giải mã Toán rời rạc".
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85149&center=true&vCenter=true&width=500&lines=DANGER%3A+NhuNgocDeveloper;Truy+n%C3%A3+v%C3%B2ng+l%E1%BB%91p+v%C3%B4+h%E1%BA%A1n...;Ph%C3%A1p+s%C6%B0+C%2FC%2B%2B%21" alt="Typing SVG" />
+</p>
+
+*   🚢 **Hành tung hiện tại**: Đang lèo lái con thuyền công nghệ xuyên qua đại dương IoT và AI.
+*   ⚔️ **Vũ khí hạng nặng**: Các thuật toán mảng, cấu trúc điều khiển và khả năng thức đêm cực hạn.
+*   📜 **Sở thích ngoài vòng pháp luật**: Nghe đi nghe lại bài "Lời Chưa Nói" và cày nát các bộ fanfiction Conan dịch.
+
+<marquee direction="left" scrollamount="5" style="color: #ea4aaa; font-weight: bold;">
+  💬 Lời nhắn từ Thuyền trưởng: "Nếu thuyền của bạn dính Bug, hãy mang trà sữa đến đây, tôi sẽ xem bói và chỉ đường thoát cho!"
+</marquee>
 
 ---
 
-### 📊 My GitHub Stats
+### 🗺️ Bản đồ kho báu (GitHub Stats)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=NhuNgocDeveloper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
