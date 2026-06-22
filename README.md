@@ -8,7 +8,7 @@
 
 *   🚢 **Hành tung hiện tại**: Đang lèo lái con thuyền công nghệ xuyên qua đại dương IoT và AI.
 *   ⚔️ **Vũ khí hạng nặng**: Các thuật toán mảng, cấu trúc điều khiển và khả năng thức đêm cực hạn.
-*   📜 **Sở thích ngoài vòng pháp luật**: Nghe đi nghe lại bài "Lời Chưa Nói" và cày nát các bộ fanfiction Conan dịch.
+*   📜 **Sở thích ngoài vòng pháp luật**: Nghe đi nghe lại bài "Ma cà rồng" và cày nát các bộ fanfiction Conan.
 
 <marquee direction="left" scrollamount="5" style="color: #ea4aaa; font-weight: bold;">
   💬 Lời nhắn từ Thuyền trưởng: "Nếu thuyền của bạn dính Bug, hãy mang trà sữa đến đây, tôi sẽ xem bói và chỉ đường thoát cho!"
